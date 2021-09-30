@@ -1,4 +1,6 @@
-### Hi there 👋
+Hey all and welcome to my Github.
+
+In here you are going to see almost everything I have worked on. Don't try to had not to be amazed
 
 <!--
 **BryantMercedes212/BryantMercedes212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
